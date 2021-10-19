@@ -2,7 +2,6 @@
 node_modules
 logs
 artifact
-vendor
 /dist
 cypress/integration/examples
 cypress/videos/*
